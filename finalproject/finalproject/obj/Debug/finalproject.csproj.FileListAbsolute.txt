@@ -1,0 +1,228 @@
+C:\Users\linbe\source\repos\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\linbe\source\repos\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\linbe\source\repos\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\linbe\source\repos\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\linbe\source\repos\finalproject\finalproject\obj\Debug\finalproject.Form1.resources
+C:\Users\linbe\source\repos\finalproject\finalproject\obj\Debug\finalproject.Form2.resources
+C:\Users\linbe\source\repos\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\linbe\source\repos\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\linbe\source\repos\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\linbe\source\repos\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\linbe\source\repos\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\linbe\source\repos\finalproject\finalproject\obj\Debug\finalproject.Form3.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.Quiz.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן\finalproject\finalproject\obj\Debug\finalproject.GameOver.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.GameOver.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder\finalproject\finalproject\obj\Debug\finalproject.frmQuiz.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmQuiz.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\פרוייקט מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmGameOver.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.frmGameOver.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.frmQuiz.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\New folder2\finalproject\finalproject\obj\Debug\finalproject.frmShowAnswer.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmGameOver.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmShowAnswer.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmQuiz.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\מעודכן מעודכן מעודכן\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.frmGameOver.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.frmShowAnswer.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.frmQuiz.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\tttt\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.frmGameOver.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.frmShowAnswer.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.frmQuiz.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\כמעט סופי\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.frmGameOver.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.frmShowAnswer.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.frmQuiz.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\עבודת גמר\lim meitav\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.frmGameOver.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.frmQuiz.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.frmShowAnswer.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סופי בהחלט\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.frmGameOver.resources
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.frmQuiz.resources
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.frmShowAnswer.resources
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\libi\Documents\Apowersoft\Apowersoft Online Screen Recorder\New folder (3)\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.frmGameOver.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.frmQuiz.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.frmShowAnswer.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\linbe\Desktop\הנדסת תעשייה וניהול\תוכנה\סטופ כדור הארץ נגעתי במשהו בורדו\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\libi\Desktop\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\libi\Desktop\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\libi\Desktop\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.csproj.AssemblyReference.cache
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.frmGameOver.resources
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.frmQuiz.resources
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.frmShowAnswer.resources
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.frmTutorial.resources
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.frmLogin.resources
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.frmAddQue.resources
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.frmMain.resources
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.frmAddInfo.resources
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\libi\Desktop\finalproject\finalproject\obj\Debug\finalproject.pdb
